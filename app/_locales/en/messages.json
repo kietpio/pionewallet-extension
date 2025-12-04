@@ -1,11 +1,11 @@
 {
   "CSS_loadingTakingTooLongActionText": {
-    "message": "Relaunch MetaMask if the problem persists.",
-    "description": "Second line of the message that is shown when the initial loading of the MetaMask UI takes a very long time."
+    "message": "Relaunch Pionewallet if the problem persists.",
+    "description": "Second line of the message that is shown when the initial loading of the Pionewallet UI takes a very long time."
   },
   "CSS_loadingTakingTooLongMessageText": {
     "message": "Loading is taking longer than usual.",
-    "description": "First line of the message that is shown when the initial loading of the MetaMask UI takes a very long time."
+    "description": "First line of the message that is shown when the initial loading of the Pionewallet UI takes a very long time."
   },
   "QRHardwareInvalidTransactionTitle": {
     "message": "Error"
@@ -207,10 +207,10 @@
     "message": "Add account or wallet"
   },
   "addAccountToMetaMask": {
-    "message": "Add account to MetaMask"
+    "message": "Add account to Pionewallet"
   },
   "addAcquiredTokens": {
-    "message": "Add the tokens you've acquired using MetaMask"
+    "message": "Add the tokens you've acquired using Pionewallet"
   },
   "addAlias": {
     "message": "Add alias"
@@ -640,15 +640,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Pionewallet",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "Pionewallet Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "Pionewallet Flask",
     "description": "The name of the application (Flask)"
   },
   "apply": {
@@ -726,7 +726,7 @@
     "message": "Auto-lock timer (minutes)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Set the idle time in minutes before MetaMask will become locked."
+    "message": "Set the idle time in minutes before Pionewallet will become locked."
   },
   "available": {
     "message": "available"
@@ -754,7 +754,7 @@
     "description": "$1 is backupAndSyncBasicFunctionalityNameMention in bold."
   },
   "backupAndSyncEnableDescription": {
-    "message": "Backup and sync lets us store encrypted data for your custom settings and features. This keeps your MetaMask experience the same across devices and restores settings and features if you ever need to reinstall MetaMask. This doesn’t back up your Secret Recovery Phrase. $1.",
+    "message": "Backup and sync lets us store encrypted data for your custom settings and features. This keeps your Pionewallet experience the same across devices and restores settings and features if you ever need to reinstall Pionewallet. This doesn’t back up your Secret Recovery Phrase. $1.",
     "description": "$1 is link to the backup and sync privacy policy."
   },
   "backupAndSyncEnableDescriptionUpdatePreferences": {
@@ -780,7 +780,7 @@
     "message": "Learn how we protect your privacy"
   },
   "backupApprovalInfo": {
-    "message": "This secret code is required to recover your wallet in case you lose your device, forget your password, have to re-install MetaMask, or want to access your wallet on another device."
+    "message": "This secret code is required to recover your wallet in case you lose your device, forget your password, have to re-install Pionewallet, or want to access your wallet on another device."
   },
   "backupApprovalNotice": {
     "message": "Back up your Secret Recovery Phrase to keep your wallet and funds secure."

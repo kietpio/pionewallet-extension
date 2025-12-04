@@ -45,7 +45,7 @@ buildTypes:
     manifestOverrides: false
     # Build name used in multiple user-readable places
     # eg. eip6963
-    buildNameOverride: MetaMask
+    buildNameOverride: PioneWallet
 
   beta:
     id: 11
@@ -81,7 +81,7 @@ buildTypes:
     isPrerelease: true
     # Folder which contains overrides to browser manifests
     manifestOverrides: ./app/build-types/beta/manifest/
-    buildNameOverride: MetaMask Beta
+    buildNameOverride: PioneWallet Beta
 
   experimental:
     id: 12
@@ -113,7 +113,7 @@ buildTypes:
       - APPLE_CLIENT_ID_REF: APPLE_EXPERIMENTAL_CLIENT_ID
     isPrerelease: true
     manifestOverrides: app/build-types/experimental/manifest
-    buildNameOverride: MetaMask Experimental
+    buildNameOverride: PioneWallet Experimental
 
   flask:
     id: 15
@@ -152,7 +152,7 @@ buildTypes:
 
     isPrerelease: true
     manifestOverrides: ./app/build-types/flask/manifest/
-    buildNameOverride: MetaMask Flask
+    buildNameOverride: PioneWallet Flask
 
 # Build types are composed of a set of features.
 # Each feature can have code fences that add new code
